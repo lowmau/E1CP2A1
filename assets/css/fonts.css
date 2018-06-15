@@ -9,3 +9,47 @@
 	font-style: normal;
 	font-weight: 400;
 }
+
+h1 {
+	font-family: 'El Rio Lobo';
+	color: #FFA700;
+}
+
+body {
+	margin: 0px;
+	font-family: times new roman;
+}
+
+img {
+	width: 620px; 
+	height: 420px;
+}
+
+.div_general {
+	text-align: center;
+	color: white;
+}
+
+#div_1{
+	background-color: #9C0900;
+	padding: 40px;
+}
+
+#div_2{
+	background-color: #008BD6;
+	padding: 20px;
+}
+
+#div_3{
+	background-image: url(../images/cuzco2.jpg);
+	background-size: 100%;
+	padding: 1px 0px 460px;
+	text-align: right;
+}
+
+#div_4{
+	color:black;
+	font-family: 'El Rio Lobo';
+	padding: 1px;
+	font-size: 80px;
+}
